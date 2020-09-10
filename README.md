@@ -1,3 +1,8 @@
+# Azure AI Hand-On Training
+
+This repo containers the hands-on training materials for the modules discussed in the video training series.
+
+TODO: Write more description.
 
 # Contributing
 
