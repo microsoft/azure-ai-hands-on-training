@@ -39,6 +39,7 @@ data:
 Save the file - now we can submit a training job to our compute cluster:
 
 ```cli
+rm run.json # Make sure this file does not exist
 az ml run submit-script -c config/train-amlcompute -e german-credit-train-amlcompute -t run.json
 ```
 
