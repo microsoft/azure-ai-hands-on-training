@@ -22,6 +22,7 @@ With best model explainability
 ## Additional Links
 
 * [Microsoft](https://microsoft.com)
+* [Build, train, and deploy machine learning models with an Azure free account](aka.ms/azuremltrial
 * [Azure ML](https://azure.microsoft.com/en-us/services/machine-learning/)
 * [Azure ML documentation](https://docs.microsoft.com/en-us/azure/machine-learning/)
 * [Azure ML GitHub](https://github.com/Azure/MachineLearningNotebooks/)
