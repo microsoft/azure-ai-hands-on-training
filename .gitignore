@@ -1,5 +1,7 @@
 # AML-related ignores
-.azureml/
+.azureml
+temp/
+run.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
