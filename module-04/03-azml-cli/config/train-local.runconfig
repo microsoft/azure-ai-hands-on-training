@@ -1,0 +1,15 @@
+script: train.py
+arguments: [--data-path, /data]
+target: local
+framework: Python
+environment:
+  environmentVariables:
+    EXAMPLE_ENV_VAR: EXAMPLE_VALUE
+  python:
+    userManagedDependencies: false
+    interpreterPath: python
+    condaDependenciesFile: config/conda.yml
+  docker:
+    enabled: true
+    baseImage: mcr.microsoft.com/azureml/base:intelmpi2018.3-ubuntu16.04
+    arguments: []
