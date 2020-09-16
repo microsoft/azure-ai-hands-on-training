@@ -17,3 +17,12 @@ provided by the bot. You will only need to do this once across all repos using o
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+# Links
+* [Microsoft](https://microsoft.com)
+* [Build, train, and deploy machine learning models with an Azure free account](https://azure.microsoft.com/en-us/free/services/machine-learning/)
+* [Azure ML](https://azure.microsoft.com/en-us/services/machine-learning/)
+* [Azure ML documentation](https://docs.microsoft.com/en-us/azure/machine-learning/)
+* [Getting Started] (https://docs.microsoft.com/en-us/azure/machine-learning/)
+* [Azure ML GitHub](https://github.com/Azure/MachineLearningNotebooks/)
+* [Learn Azure ML with Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure&roles=data-scientist)
