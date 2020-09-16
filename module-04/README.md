@@ -3,6 +3,14 @@
 
 ## Hands-On exercises
 
+We recommend to run these exercises in a Compute Instance on Azure Machine Learning. To get started, open Jupyter on the Compute Instance, select `New --> Terminal` and clone this repo:
+
+```cli
+git clone https://github.com/microsoft/azure-ai-hands-on-training.git
+```
+
+Then navigate to the cloned folder in Jupyter and start with the exercises.
+
 ### Exercise 1 - Simple training pipeline
 
 * This exercise shows how to construct and execute a basic AML pipeline for model training
