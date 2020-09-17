@@ -7,9 +7,10 @@ We recommend to run these exercises in a Compute Instance on Azure Machine Learn
 
 ```cli
 git clone https://github.com/microsoft/azure-ai-hands-on-training.git
+cd azure-ai-hands-on-training/module-04/
 ```
 
-Then navigate to the cloned folder in Jupyter and start with the exercises.
+Then navigate to the cloned folder in Jupyter and start with the exercises. In case you're asked for a kernel, please use the `Python 3.6 - AzureML` kernel that comes with the Compute Instance.
 
 ### Exercise 1 - Simple training pipeline
 
