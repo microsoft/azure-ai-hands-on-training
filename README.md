@@ -2,9 +2,9 @@
 
 This repo containers the hands-on training materials for the modules discussed in the video training series.
 
-<img src="https://github.com/microsoft/azure-ai-hands-on-training/blob/main/images/img1.jpg?raw=true>
+<img src="https://github.com/microsoft/azure-ai-hands-on-training/blob/main/images/img1.jpg?raw=true">
 <br>
-<img src="https://github.com/microsoft/azure-ai-hands-on-training/blob/main/images/img2.jpg?raw=true>
+<img src="https://github.com/microsoft/azure-ai-hands-on-training/blob/main/images/img2.jpg?raw=true">
 
 
 # Contributing
