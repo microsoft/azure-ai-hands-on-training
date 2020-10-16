@@ -38,9 +38,10 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 # Links
 * [Microsoft](https://microsoft.com)
+* [Azure] (https://azure.microsoft.com/en-us/)
 * [Build, train, and deploy machine learning models with an Azure free account](https://azure.microsoft.com/en-us/free/services/machine-learning/)
 * [Azure ML](https://azure.microsoft.com/en-us/services/machine-learning/)
 * [Azure ML documentation](https://docs.microsoft.com/en-us/azure/machine-learning/)
-* [Getting Started](https://docs.microsoft.com/en-us/azure/machine-learning/)
+* [Getting Started with Azure ML](https://docs.microsoft.com/en-us/azure/machine-learning/)
 * [Azure ML GitHub](https://github.com/Azure/MachineLearningNotebooks/)
 * [Learn Azure ML with Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure&roles=data-scientist)
