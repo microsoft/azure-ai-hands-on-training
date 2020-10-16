@@ -7,7 +7,7 @@ This repo containers the hands-on training materials for the modules discussed i
 <img src="https://github.com/microsoft/azure-ai-hands-on-training/blob/main/images/img2.jpg?raw=true">
 
 # Modules description
-*[Module 1: Azure Machine Learning for Business Data Scientists](https://github.com/microsoft/azure-ai-hands-on-training/tree/main/module-01)
+* [Module 1: Azure Machine Learning for Business Data Scientists](https://github.com/microsoft/azure-ai-hands-on-training/tree/main/module-01)
 Abstract: A hands-on training on how to build and deploy AI models with the low-code/no-code tools.
 
 **Module 2: Azure Cognitive Services for App Developers**
