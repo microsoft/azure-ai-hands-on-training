@@ -7,19 +7,19 @@ This repo containers the hands-on training materials for the modules discussed i
 <img src="https://github.com/microsoft/azure-ai-hands-on-training/blob/main/images/img2.jpg?raw=true">
 
 # Modules description
-* [Module 1: Azure Machine Learning for Business Data Scientists](https://github.com/microsoft/azure-ai-hands-on-training/tree/main/module-01)
+* [Module 1: Azure Machine Learning for Business Data Scientists](https://github.com/microsoft/azure-ai-hands-on-training/tree/main/module-01)<br>
 Abstract: A hands-on training on how to build and deploy AI models with the low-code/no-code tools.
 
-**Module 2: Azure Cognitive Services for App Developers**
+* [Module 2: Azure Cognitive Services for App Developers](https://github.com/microsoft/azure-ai-hands-on-training/tree/main/module-02)<br>
 Abstract: A hands-on training on Cognitive Services to build AI solutions without machine learning expertise.
 
-**Module 3: Azure Machine Learning for Professional Data Scientists**
+* [Module 3: Azure Machine Learning for Professional Data Scientists](https://github.com/microsoft/azure-ai-hands-on-training/tree/main/module-03)<br>
 Abstract: Covers key concepts like Workspace, Datasets, Compute options, Experiments and Deployment.
 
-**Module 4: Advanced AML Concepts for Professional Data Scientists and ML Engineers**
+* [Module 4: Advanced AML Concepts for Professional Data Scientists and ML Engineers](https://github.com/microsoft/azure-ai-hands-on-training/tree/main/module-04)<br>
 Abstract: Deep Dive into Pipelines and CLI for automation of Machine Learning workflows and MLOps.
 
-**Module 5: Enterprise Readiness for Enterprise Architects**
+* [Module 5: Enterprise Readiness for Enterprise Architects](https://github.com/microsoft/azure-ai-hands-on-training/tree/main/module-05)<br>
 Abstract: A full immersion on the Security and Governance features of our Azure AI platform.
 
 # Contributing
