@@ -22,7 +22,7 @@ Azure ML Designer from training to deploying in a no code fashion.
 ### Exercise 5
 Create your first Automated ML experiment With best model explainability.
 * [Video](https://microsofteur.sharepoint.com/:v:/t/EnterpriseAIwhitepaper/Ed-9dXKmBMNCjn3eOwj4Vs4BBeA5Q8QzgkzK0az04DXU1g?e=SdcV3B)
-
+* [AutoML Dataset](https://github.com/microsoft/azure-ai-hands-on-training/blob/main/module-01/Titanic.csv)
 
 ## Additional Links
 
