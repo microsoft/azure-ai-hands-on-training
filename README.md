@@ -2,9 +2,9 @@
 
 This repo containers the hands-on training materials for the modules discussed in the video training series.
 
-<img src="https://github.com/microsoft/azure-ai-hands-on-training/blob/main/images/img1.jpg?raw=true">
-<br>
-<img src="https://github.com/microsoft/azure-ai-hands-on-training/blob/main/images/img2.jpg?raw=true">
+![Overview image](images/img1.jpg)
+![Overview image](images/img2.jpg)
+
 
 # Modules description
 * [Module 1: Azure Machine Learning for Business Data Scientists](https://github.com/microsoft/azure-ai-hands-on-training/tree/main/module-01)<br>
